@@ -1,0 +1,92 @@
+[
+    {
+        "Title" : "엄마의 책갈피 인문학",
+        "Author" : "김선호",
+        "Publisher" : "상상출판",
+        "Date" : "2020년 11월 02일",
+        "Price" : 13320,
+        "Explain" : "베테랑 초등교사이자 초등교육 전문가 김선호가 학급과 가정에서 직접 효과를 봤던 자녀 교육에",
+        "Photo" : "images/book1.jpg"
+    },
+    {
+        "Title" : "알록달록 마노의 일러스트 자수",
+        "Author" : "류승희(마노자수)",
+        "Publisher" : "책밥",
+        "Date" : "2020년 10월 27일",
+        "Price" : 16200,
+        "Explain" : "스페인어로 ‘손’을 뜻하는 ‘마노(mano)’에서 예명을 따온 이 책의 저자 ‘마노자수’",
+        "Photo" : "images/book2.jpg"
+    },
+    {
+        "Title" : "맛있는 홍차를 집에서 즐기는 책",
+        "Author" : "야마다 사카에",
+        "Publisher" : "북커스",
+        "Date" : "2020년 10월 26일",
+        "Price" : 15300,
+        "Explain" : "없음",
+        "Photo" : "images/book3.jpg"
+    },
+    {
+        "Title" : "타인의 속마음",
+        "Author" : "김태현",
+        "Publisher" : "리텍콘텐츠",
+        "Date" : "2020년 11월 02일",
+        "Price" : 13950,
+        "Explain" : "이 책은 심리학자들의 명언",
+        "Photo" : "images/book4.jpg"
+    },
+    {
+        "Title" : "행정법총론 기출문제집 세트(2021)(써니)(전2권)",
+        "Author" : "박준철",
+        "Publisher" : "에스티유니타스",
+        "Date" : "2020년 10월 26일",
+        "Price" : 36900,
+        "Explain" : "14년간(2007~2020년) 필수 기출문제 수록, 단원별(강별) 구성으로 기본서",
+        "Photo" : "images/book5.jpg"
+    },
+    {
+        "Title" : "모두의 자바",
+        "Author" : "강경미",
+        "Publisher" : "길벗",
+        "Date" : "2020년 10월 30일",
+        "Price" : 18000,
+        "Explain" : "자바는 어렵다? 자바나 프로그래밍을 모르더라도 혼자서 배워볼 수는 없을까?",
+        "Photo" : "images/book6.jpg"
+    },
+    {
+        "Title" : "과학을 아우르는 스토리텔링",
+        "Author" : "랜디 올슨",
+        "Publisher" : "북스힐",
+        "Date" : "2020년 09월 25일",
+        "Price" : 14400,
+        "Explain" : "왜 내가 이야기만 하면 모두들 조는 것일까? 과학 연구를 재미있게 청중들에게 전달할 수 있",
+        "Photo" : "images/book7.jpg"
+    },
+    {
+        "Title" : "드래곤볼 슈퍼. 13",
+        "Author" : "토리야마 아키라 (원작)",
+        "Publisher" : "서울미디어코믹스(DCW)",
+        "Date" : "2020년 10월 20일",
+        "Price" : 4500,
+        "Explain" : "★ 드디어 성사된 모로와의 재대결!! 메르스와의 수련, 그 성과는?! 지구로 쳐들어온 모",
+        "Photo" : "images/book8.jpg"
+    },
+    {
+        "Title" : "지니어스 라이프",
+        "Author" : "맥스 루가비어",
+        "Publisher" : "니들북",
+        "Date" : "2020년 10월 20일",
+        "Price" : 15750,
+        "Explain" : "★ 〈뉴욕타임스〉 베스트셀러 작가 ★ 아이튠즈 건강 분야 팟캐스트 1위!",
+        "Photo" : "images/book9.jpg"
+    },
+    {
+        "Title" : "대통령이 사라졌다. 1",
+        "Author" : "빌 클린턴",
+        "Publisher" : "베리타스",
+        "Date" : "2020년 10월 28일",
+        "Price" : 12420,
+        "Explain" : "없음",
+        "Photo" : "images/book10.jpg"
+    }
+]

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ajax응용실습.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+</head>
+<body>
+    
+    <div id="wrap">
+    
+       <div class="bookbox row">
+           <div class="pushBtn">
+               <button type="button">도서추가</button>
+           </div>
+
+           <div class="formBox">
+               <form>
+                   <p>
+                       <label for="title">제목 :</label>
+                       <input type="text" id="title">
+                   </p>
+                   <p>
+                        <label for="author">저자 :</label>
+                        <input type="text" id="author">
+                    </p>
+                    <p>
+                        <label for="publish">출판사 :</label>
+                        <input type="text" id="publish">
+                    </p>
+                    <p>
+                        <label for="date">발행일 :</label>
+                        <input type="text" id="date">
+                    </p>
+                    <p>
+                        <label for="price">판매가 :</label>
+                        <input type="text" id="price" placeholder="숫자만 입력하세요">
+                    </p>
+                    <p>
+                        <label for="description">요약 :</label>
+                        <input type="text" id="description">
+                    </p>
+                    <p>
+                        <label for="imgsrc">이미지 :</label>
+                        <input type="text" id="imgsrc" placeholder="images/이미지명.확장자">
+                    </p>
+                    <button type="submit">확인</button>
+                    <button type="reset">취소</button>
+               </form>
+           </div>
+
+           <!-- <ul>
+               <li>
+                   <div class="imgBox">
+                       <img src="images/book1.jpg" alt="">
+                   </div>
+                   <div class="txtBox">
+                        <h3>엄마의 책갈피 인문학</h3>
+                        <p>저자 : 김선호</p>
+                        <p>출판사 : 상상출판</p>
+                        <p>발행일 : 2020년 11월 02일</p>
+                        <strong>판매가 : 13,320원</strong>
+                        <p>요약 : 베테랑 초등교사이자 초등교육 전문가 김선호가 학급과 가정에서 직접 효과를 봤던</p>
+                   </div>
+                   <button type="button">삭제</button>
+               </li>
+           </ul> -->
+       </div>     
+        
+    </div>
+
+
+    
+    <script src="ajax응용실습.js"></script>
+</body>
+</html>
